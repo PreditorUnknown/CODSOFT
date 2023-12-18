@@ -1,0 +1,39 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Shashank Atul Gosavi</h1>
+    <p>Cyber Security Learner</p>
+  </header>
+
+  <section class="about">
+    <img src="cyber.jpg" 
+    width="300px" height="200px"
+    <p>I am a Student studing in GHRCEM, Pune. I am a Great learner, And i want to Explorer More in the field of cybersecurity. I am cyrrently a Intern at Pune City Police.</p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills & Expertise</h2>
+    <ul>
+      <li>Offensive and Defensive Attacks</li>
+      <li>Data Science</li>
+      <li>Phishing Attacker</li>
+      </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Get in Touch</h2>
+    <p>Email: dark6324@gmail.com</p>
+    </section>
+
+  <footer>
+    <p>&copy; 2023 Shashnk . All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
